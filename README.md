@@ -1,0 +1,2 @@
+# DoItApp
+Simple task manager
